@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Rust]()
+  - [Resources](./rust/rust_resources.md)
